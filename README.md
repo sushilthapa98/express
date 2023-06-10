@@ -6,3 +6,4 @@ Node Express Todo API
 3. ES Modules with Babel
 4. JWT Authentication
 5. Todo CRUD
+6. File Upload
